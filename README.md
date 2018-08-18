@@ -3,7 +3,7 @@
 
 This is the demo code for our work. please refer to TIP2018 paper for details.[[paper](https://arxiv.org/abs/1804.00533)]
 
-Given a stack of pre-aligned input frames, our network predicts a sharper central image. 
+Given a stack of UN-ALIGNED input frames, our network predicts a sharper central image. 
 
 
 
