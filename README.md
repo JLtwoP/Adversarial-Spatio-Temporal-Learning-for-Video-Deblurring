@@ -1,5 +1,5 @@
 
-## Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring
+## Adversarial Spatio-Temporal Learning for Video Deblurring
 
 This is the testing code for our work. please refer to TIP2018 paper for details.[[paper](https://arxiv.org/abs/1804.00533)]
 
