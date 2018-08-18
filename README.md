@@ -1,7 +1,5 @@
 
 ## Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring
-K. Zhang, W. Luo, Y. Zhong, L. Ma, W. Liu and H. Li. Adversarial Spatio-Temporal Learning for Video Deblurring. TIP2018
-
 
 This is the demo code for [Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring]. Given a stack of pre-aligned input frames, our network predicts a sharper central image. 
 
