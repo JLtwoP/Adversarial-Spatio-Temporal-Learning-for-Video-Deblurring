@@ -1,12 +1,14 @@
 
 ## Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring
 
-This is the demo code for [Adversarial-Spatio-Temporal-Learning-for-Video-Deblurring]. Given a stack of pre-aligned input frames, our network predicts a sharper central image. 
+This is the demo code for our work. please refer to TIP2018 paper for details.[[paper](https://arxiv.org/pdf/1804.00533.pdf)]
+
+Given a stack of pre-aligned input frames, our network predicts a sharper central image. 
 
 
 
 ### Citation
-If you find this code useful for your research, please cite:
+If you find this code useful for your research, please cite our work:
 ```
 @article{zhang2018adversarial,
   title={Adversarial Spatio-Temporal Learning for Video Deblurring},
