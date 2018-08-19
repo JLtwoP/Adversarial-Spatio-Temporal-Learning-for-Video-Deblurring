@@ -5,7 +5,7 @@ This is the testing code for our work. please refer to TIP2018 paper for details
 
 Given a stack of UN-ALIGNED input frames, our network generates a sharper central image. 
 
-### Testing
+### Code
 
 Code will be released soon.
 
