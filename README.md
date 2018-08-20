@@ -7,7 +7,7 @@ Given a stack of UN-ALIGNED input frames, our network generates a sharper centra
 
 ### Code
 
-Code will be released soon.
+The code will be released soon.
 
 
 ### Citation
